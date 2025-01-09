@@ -1,8 +1,8 @@
-# CPS714 - Loyalty Points And Rewards System
+Loyalty Points And Rewards System - EcoFix Solutions: Client Engagement Web Portal.
 
-This subproject is a part of a larger project - EcoFix Solutions: Client Engagement Web Portal.
+This project was created with 4 group members: Peter-012, Blazer2002, Jyvo, heat-21
 
-This project will use the Django Stack which is Python, Django, and MySQL. \
+This project will use the Django Stack which is Python, Django, and MySQL. 
 The frontend will be using Django REST API (DRF) with React.js which uses JavaScript.
 
 ## Frontend Setup (React.js)
