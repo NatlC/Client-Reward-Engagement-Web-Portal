@@ -1,0 +1,20 @@
+use lprs;
+
+DROP TABLE IF EXISTS feedback;
+DROP TABLE IF EXISTS surveyresponses;
+DROP TABLE IF EXISTS analytics;
+DROP TABLE IF EXISTS client_engagement;
+DROP TABLE IF EXISTS support_performance;
+DROP TABLE IF EXISTS program_success;
+DROP TABLE IF EXISTS customer_stats;
+DROP TABLE IF EXISTS percentdiscountreward;
+DROP TABLE IF EXISTS pricediscountreward;
+DROP TABLE IF EXISTS productupgradereward;
+DROP TABLE IF EXISTS exclusiveproductreward;
+DROP TABLE IF EXISTS rewardtransaction;
+DROP TABLE IF EXISTS support_tickets;
+DROP TABLE IF EXISTS rewards;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS surveys;
+DROP TABLE IF EXISTS admin_access;
